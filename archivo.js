@@ -10,3 +10,4 @@ console.log("HolaMundo");
 // :wq  escribir y salir en el commit
 
 //git diff file
+// git commit -m "texto del commit"     te evita abrir el git commit
